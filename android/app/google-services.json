@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408776344184",
+    "project_id": "feeproject-b858b",
+    "storage_bucket": "feeproject-b858b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408776344184:android:8d696fec9695b7fe07e38d",
+        "android_client_info": {
+          "package_name": "com.example.feeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPL9x1jf3Rlj61BJBMjw7W-lMG6K8j_l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
